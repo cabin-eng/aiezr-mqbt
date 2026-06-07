@@ -1,9 +1,10 @@
-# AIEZR MQBT Archiver (Universal DNA Capsule) 🧬
+# AIEZR MQBT Archiver - Community Edition (CE) 🧬
 
 ![Version](https://img.shields.io/badge/version-2.0-blue)
 ![Standard](https://img.shields.io/badge/Standard-CNS_2.1-purple)
 ![C++](https://img.shields.io/badge/C++-17-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20114384.svg)](https://doi.org/10.5281/zenodo.20114384)
 
 > **Layer 0 Foundation (Ethical Governor):**
 > *Allaah Subhaanahu Wata'aala, Laaillaahailallaah Muhammadan Abduhu Warasulullaah, Al-Qur'an & Hadis.*
@@ -16,6 +17,8 @@
 1. **`mqbt-s` (Single Stream):** Lightweight payload specialist for single files.
 2. **`mqbt-a` (Archive Mode):** Multi-file *Cold Storage* specialist to ingest giant folders complete with a high-speed Table of Contents (TOC).
 
+**[Theory & White Paper]**
+The theoretical foundation of this extreme memory compression (Micro-Qubit space) is fully detailed in our Zenodo research paper: [AIEZR Sovereign Cognitive Intelligence](https://doi.org/10.5281/zenodo.20114384).
 ---
 
 ## 🏛️ Identitas Enterprise / Enterprise Identity
