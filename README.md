@@ -1,7 +1,7 @@
 # AIEZR MQBT Archiver - Community Edition (CE) 🧬
 
 ![Version](https://img.shields.io/badge/version-2.0-blue)
-![Standard](https://img.shields.io/badge/Standard-CNS_2.1-purple)
+`<!--![Standard](https://img.shields.io/badge/Standard-CNS_2.1-purple)-->`).
 ![C++](https://img.shields.io/badge/C++-17-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20114384.svg)](https://doi.org/10.5281/zenodo.20114384)
